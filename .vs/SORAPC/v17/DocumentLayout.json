@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yaney\\source\\repos\\SORAPC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C37F534B-E704-47BB-B375-8ACE7F2D2A5E}|SORAPC\\SORAPC.csproj|c:\\users\\yaney\\source\\repos\\sorapc\\sorapc\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37F534B-E704-47BB-B375-8ACE7F2D2A5E}|SORAPC\\SORAPC.csproj|solutionrelative:sorapc\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37F534B-E704-47BB-B375-8ACE7F2D2A5E}|SORAPC\\SORAPC.csproj|c:\\users\\yaney\\source\\repos\\sorapc\\sorapc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37F534B-E704-47BB-B375-8ACE7F2D2A5E}|SORAPC\\SORAPC.csproj|solutionrelative:sorapc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37F534B-E704-47BB-B375-8ACE7F2D2A5E}|SORAPC\\SORAPC.csproj|c:\\users\\yaney\\source\\repos\\sorapc\\sorapc\\views\\users\\editusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C37F534B-E704-47BB-B375-8ACE7F2D2A5E}|SORAPC\\SORAPC.csproj|solutionrelative:sorapc\\views\\users\\editusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37F534B-E704-47BB-B375-8ACE7F2D2A5E}|SORAPC\\SORAPC.csproj|c:\\users\\yaney\\source\\repos\\sorapc\\sorapc\\views\\users\\detailsusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C37F534B-E704-47BB-B375-8ACE7F2D2A5E}|SORAPC\\SORAPC.csproj|solutionrelative:sorapc\\views\\users\\detailsusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37F534B-E704-47BB-B375-8ACE7F2D2A5E}|SORAPC\\SORAPC.csproj|c:\\users\\yaney\\source\\repos\\sorapc\\sorapc\\views\\users\\deleteusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C37F534B-E704-47BB-B375-8ACE7F2D2A5E}|SORAPC\\SORAPC.csproj|solutionrelative:sorapc\\views\\users\\deleteusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37F534B-E704-47BB-B375-8ACE7F2D2A5E}|SORAPC\\SORAPC.csproj|c:\\users\\yaney\\source\\repos\\sorapc\\sorapc\\views\\users\\createusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C37F534B-E704-47BB-B375-8ACE7F2D2A5E}|SORAPC\\SORAPC.csproj|solutionrelative:sorapc\\views\\users\\createusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37F534B-E704-47BB-B375-8ACE7F2D2A5E}|SORAPC\\SORAPC.csproj|c:\\users\\yaney\\source\\repos\\sorapc\\sorapc\\views\\adminpanel\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C37F534B-E704-47BB-B375-8ACE7F2D2A5E}|SORAPC\\SORAPC.csproj|solutionrelative:sorapc\\views\\adminpanel\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37F534B-E704-47BB-B375-8ACE7F2D2A5E}|SORAPC\\SORAPC.csproj|c:\\users\\yaney\\source\\repos\\sorapc\\sorapc\\controllers\\adminpanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37F534B-E704-47BB-B375-8ACE7F2D2A5E}|SORAPC\\SORAPC.csproj|solutionrelative:sorapc\\controllers\\adminpanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37F534B-E704-47BB-B375-8ACE7F2D2A5E}|SORAPC\\SORAPC.csproj|c:\\users\\yaney\\source\\repos\\sorapc\\sorapc\\views\\adminpanel\\adminpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C37F534B-E704-47BB-B375-8ACE7F2D2A5E}|SORAPC\\SORAPC.csproj|solutionrelative:sorapc\\views\\adminpanel\\adminpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37F534B-E704-47BB-B375-8ACE7F2D2A5E}|SORAPC\\SORAPC.csproj|c:\\users\\yaney\\source\\repos\\sorapc\\sorapc\\views\\authorization\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C37F534B-E704-47BB-B375-8ACE7F2D2A5E}|SORAPC\\SORAPC.csproj|solutionrelative:sorapc\\views\\authorization\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 265,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\SORAPC\\SORAPC\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "SORAPC\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\SORAPC\\SORAPC\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "SORAPC\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwv2wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:00:17.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\SORAPC\\SORAPC\\Views\\Users\\EditUsers.cshtml",
+              "RelativeDocumentMoniker": "SORAPC\\Views\\Users\\EditUsers.cshtml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\SORAPC\\SORAPC\\Views\\Users\\EditUsers.cshtml",
+              "RelativeToolTip": "SORAPC\\Views\\Users\\EditUsers.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T12:59:00.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetailsUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\SORAPC\\SORAPC\\Views\\Users\\DetailsUsers.cshtml",
+              "RelativeDocumentMoniker": "SORAPC\\Views\\Users\\DetailsUsers.cshtml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\SORAPC\\SORAPC\\Views\\Users\\DetailsUsers.cshtml",
+              "RelativeToolTip": "SORAPC\\Views\\Users\\DetailsUsers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T12:58:44.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\SORAPC\\SORAPC\\Views\\Users\\DeleteUsers.cshtml",
+              "RelativeDocumentMoniker": "SORAPC\\Views\\Users\\DeleteUsers.cshtml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\SORAPC\\SORAPC\\Views\\Users\\DeleteUsers.cshtml",
+              "RelativeToolTip": "SORAPC\\Views\\Users\\DeleteUsers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T12:58:28.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\SORAPC\\SORAPC\\Views\\Users\\CreateUsers.cshtml",
+              "RelativeDocumentMoniker": "SORAPC\\Views\\Users\\CreateUsers.cshtml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\SORAPC\\SORAPC\\Views\\Users\\CreateUsers.cshtml",
+              "RelativeToolTip": "SORAPC\\Views\\Users\\CreateUsers.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T12:57:50.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\SORAPC\\SORAPC\\Views\\AdminPanel\\Users.cshtml",
+              "RelativeDocumentMoniker": "SORAPC\\Views\\AdminPanel\\Users.cshtml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\SORAPC\\SORAPC\\Views\\AdminPanel\\Users.cshtml",
+              "RelativeToolTip": "SORAPC\\Views\\AdminPanel\\Users.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T12:50:54.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminPanel.cshtml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\SORAPC\\SORAPC\\Views\\AdminPanel\\AdminPanel.cshtml",
+              "RelativeDocumentMoniker": "SORAPC\\Views\\AdminPanel\\AdminPanel.cshtml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\SORAPC\\SORAPC\\Views\\AdminPanel\\AdminPanel.cshtml",
+              "RelativeToolTip": "SORAPC\\Views\\AdminPanel\\AdminPanel.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T12:45:54.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminPanelController.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\SORAPC\\SORAPC\\Controllers\\AdminPanelController.cs",
+              "RelativeDocumentMoniker": "SORAPC\\Controllers\\AdminPanelController.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\SORAPC\\SORAPC\\Controllers\\AdminPanelController.cs",
+              "RelativeToolTip": "SORAPC\\Controllers\\AdminPanelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:43:06.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorizationController.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\SORAPC\\SORAPC\\Controllers\\AuthorizationController.cs",
+              "RelativeDocumentMoniker": "SORAPC\\Controllers\\AuthorizationController.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\SORAPC\\SORAPC\\Controllers\\AuthorizationController.cs",
+              "RelativeToolTip": "SORAPC\\Controllers\\AuthorizationController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:35:44.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\SORAPC\\SORAPC\\Views\\Authorization\\Profile.cshtml",
+              "RelativeDocumentMoniker": "SORAPC\\Views\\Authorization\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\SORAPC\\SORAPC\\Views\\Authorization\\Profile.cshtml",
+              "RelativeToolTip": "SORAPC\\Views\\Authorization\\Profile.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T12:35:21.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
